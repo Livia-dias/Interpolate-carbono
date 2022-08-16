@@ -1,3 +1,11 @@
 Artigos
-Dados vetoriais
 Planilhas
+*.lock
+*.tif
+*.tfw
+*.xml
+*.mxd
+*.cpg
+*.dbf
+*.ovr
+*.shx
